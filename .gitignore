@@ -1,0 +1,7 @@
+# Executables generes par la compilation
+TD1/Exercice1/exercice1
+TD1/Exercice2/exercice2
+TD1/td1
+
+# Configuration locale de Visual Studio Code
+.vscode/
