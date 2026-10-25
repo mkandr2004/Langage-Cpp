@@ -47,3 +47,26 @@ cd TD2/Exercice2
 g++ main.cpp -o exercice2
 ./exercice2
 ```
+
+## TD3
+
+Le TD3 contient trois exercices :
+
+- `Exercice1.cpp` : comptage des fréquences avec une méthode brute-force et une `map`.
+- `Exercice2.cpp` : problème Two Sum avec une méthode brute-force et une `unordered_map`.
+- `Exercice3.cpp` : vérification d'un palindrome avec une `queue` et une `stack`.
+
+### Compiler et exécuter les exercices
+
+```bash
+cd TD3
+
+g++ Exercice1.cpp -o Exercice1
+./Exercice1
+
+g++ Exercice2.cpp -o Exercice2
+./Exercice2
+
+g++ Exercice3.cpp -o Exercice3
+./Exercice3
+```
